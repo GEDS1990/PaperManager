@@ -8,5 +8,10 @@
 .project
 bin/
 
+# projext #
+JTattoo.jar
+mysql-connector-java-5.1.32-bin.jar
+poi-3.6-20091214.jar
+
 
 
